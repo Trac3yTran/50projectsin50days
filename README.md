@@ -11,16 +11,55 @@ https://www.udemy.com/course/50-projects-50-days/
 Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM manipulation, Events, Array methods and HTTP requests 
 
 #
+Projects below:
 
-- D1 - Expanding Cards
-- D2 - Progress Steps
-- D3 - Rotating Navigation
-- D4 - Hidden Search Widget
-- D5 - Blurry Loading
-- D6 - Scroll Animation 
-- D7 - Split Landing Page
-- D8 - Form Wave Animation 
-- D9 - Sound Board
-- D10 - Dad Jokes 
-
-
+- Expanding Cards
+- Progress Steps
+- Rotating Navigation Animation
+- Hidden Search Widget
+- Blurry Loading
+- Scroll Animation
+- Split Landing Page
+- Form Wave
+- Sound Board
+- Dad Jokes
+- Event Keycodes
+- Faq Collapse
+- Random Choice Picker
+- Animated Navigation
+- Incrementing Counter
+- Drink Water
+- Movie App
+- Background Slider
+- Theme Clock
+- Button Ripple Effect
+- Drag N Drop
+- Drawing App
+- Kinetic Loader
+- Content Placeholder
+- Sticky Navbar
+- Double Vertical Slider
+- Toast Notification
+- Github Profiles
+- Double Click Heart
+- Auto Text Effect
+- Password Generator
+- Good Cheap Fast
+- Notes App
+- Animated Countdown
+- Image Carousel
+- Hoverboard
+- Pokedex
+- Mobile Tab Navigation
+- Password Strength Background
+- 3d Background Boxes
+- Verify Account UI
+- Live User Filter
+- Feedback UI Design
+- Custom Range Slider
+- Netflix Mobile Navigation
+- Quiz App
+- Testimonial Box Switcher
+- Random Image Feed
+- Todo List
+- Insect Catch Game
