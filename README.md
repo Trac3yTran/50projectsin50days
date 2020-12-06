@@ -8,26 +8,19 @@
 https://www.udemy.com/course/50-projects-50-days/
 
 ### 
-Includes:
-- Modern styling with flexbox
-- CSS animations
-- Custom properties
-- DOM manipulation
-- Events
-- Array methods
-- HTTP requests 
+Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM manipulation, Events, Array methods and HTTP requests 
 
 #
 
-D1 - Expanding Cards
-D2 - Progress Steps
-D3 - Rotating Navigation
-D4 - Hidden Search Widget
-D5 - Blurry Loading
-D6 - Scroll Animation 
-D7 - Split Landing Page
-D8 - Form Wave Animation 
-D9 - Sound Board
-D10 - Dad Jokes 
+- D1 - Expanding Cards
+- D2 - Progress Steps
+- D3 - Rotating Navigation
+- D4 - Hidden Search Widget
+- D5 - Blurry Loading
+- D6 - Scroll Animation 
+- D7 - Split Landing Page
+- D8 - Form Wave Animation 
+- D9 - Sound Board
+- D10 - Dad Jokes 
 
 
