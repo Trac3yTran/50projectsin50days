@@ -19,22 +19,15 @@ Includes:
 
 #
 
-Day 1 - Expanding Cards
-# 
-Day 2 - Progress Steps
-#
-Day 3 - Rotating Navigation
-#
-Day 4 - Hidden Search Widget
-#
-Day 5 - Blurry Loading
-# 
-Day 6 - Scroll Animation 
-#
-Day 7 - Split Landing Page
-#
-Day 8 - Form Wave Animation 
-#
-Day 9 - Sound Board
-#
-Day 10 - Dad Jokes 
+D1 - Expanding Cards
+D2 - Progress Steps
+D3 - Rotating Navigation
+D4 - Hidden Search Widget
+D5 - Blurry Loading
+D6 - Scroll Animation 
+D7 - Split Landing Page
+D8 - Form Wave Animation 
+D9 - Sound Board
+D10 - Dad Jokes 
+
+
