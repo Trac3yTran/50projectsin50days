@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 :root {
-  --line-border-fill: #3498db;
-  --line-border-empty: #e0e0e0;
+  --line-border-fill: #8a2846;
+  --line-border-empty: #ff9ebb;
 }
 
 * {
@@ -28,9 +28,9 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   max-width: 100%;
-  width: 350px;
+  width: 400px;
 }
 
 .progress-container::before {
@@ -39,7 +39,7 @@ body {
   position: absolute;
   top: 50%;
   left: 0;
-  transform: translateY(-50%);
+  transform: translateY(-60%);
   height: 4px;
   width: 100%;
   z-index: -1;
@@ -59,7 +59,7 @@ body {
 
 .circle {
   background-color: #fff;
-  color: #999;
+  color: rgb(7, 7, 7);
   border-radius: 50%;
   height: 30px;
   width: 30px;
