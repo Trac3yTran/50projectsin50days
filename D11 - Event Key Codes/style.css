@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #e1e1e1;
+  background-color: #B3C5D7;
   font-family: 'Muli', sans-serif;
   display: flex;
   align-items: center;
@@ -17,8 +17,8 @@ body {
 }
 
 .key {
-  border: 1px solid #999;
-  background-color: #eee;
+  border: 1px solid #4A4063;
+  background-color: #7392B7;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
   display: inline-flex;
   align-items: center;
