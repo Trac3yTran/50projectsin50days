@@ -8,7 +8,7 @@ counters.forEach(counter => {
         const target = +counter.getAttribute('data-target')
         const c = +counter.innerText
 
-        const increment = target / 200
+        const increment = target / 600
         
         if(c < target) {
             counter.innerText = `${Math.ceil(c + increment)}`
