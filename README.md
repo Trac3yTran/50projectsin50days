@@ -1,19 +1,23 @@
 # 50projectsin50days
 
-### 
-50 Projects In 50 Days - HTML, CSS JavaScript by Brad Traversy and Florin Pop 
+###
 
-### 
+50 Projects In 50 Days - HTML, CSS JavaScript by Brad Traversy and Florin Pop
+
+###
 
 https://www.udemy.com/course/50-projects-50-days/
 
-### 
-Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM manipulation, Events, Array methods and HTTP requests 
+###
+
+Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM manipulation, Events, Array methods and HTTP requests
 
 #
+
 Projects below:
 
 - Expanding Cards
+  ![Screenshot](01.png)
 - Progress Steps
 - Rotating Navigation Animation
 - Hidden Search Widget
