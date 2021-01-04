@@ -17,7 +17,7 @@ Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM ma
 Projects below:
 
 - Expanding Cards
-  ![Screenshot](01.png)
+  ![Screenshot](screenshots/01.png)
 - Progress Steps
 - Rotating Navigation Animation
 - Hidden Search Widget
