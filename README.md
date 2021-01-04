@@ -75,6 +75,7 @@ Projects below:
 - Double Click Heart
   ![Screenshot](screenshots/29.png)
 - Auto Text Effect
+  ![Screenshot](screenshots/30.png)
 - Password Generator
 - Good Cheap Fast
 - Notes App
