@@ -77,8 +77,9 @@ Projects below:
 - Auto Text Effect
   ![Screenshot](screenshots/30.png)
 - Password Generator
-![Screenshot](screenshots/31.png)
+  ![Screenshot](screenshots/31.png)
 - Good Cheap Fast
+  ![Screenshot](screenshots/32.png)
 - Notes App
 - Animated Countdown
 - Image Carousel
