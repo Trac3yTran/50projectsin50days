@@ -81,6 +81,7 @@ Projects below:
 - Good Cheap Fast
   ![Screenshot](screenshots/32.png)
 - Notes App
+  ![Screenshot](screenshots/33.png)
 - Animated Countdown
 - Image Carousel
 - Hoverboard
