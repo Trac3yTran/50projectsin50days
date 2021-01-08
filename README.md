@@ -83,6 +83,7 @@ Projects below:
 - Notes App
   ![Screenshot](screenshots/33.png)
 - Animated Countdown
+  ![Screenshot](screenshots/34.png)
 - Image Carousel
 - Hoverboard
 - Pokedex
