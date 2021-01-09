@@ -85,6 +85,7 @@ Projects below:
 - Image Carousel
   ![Screenshot](screenshots/35.png)
 - Hoverboard
+  ![Screenshot](screenshots/36.png)
 - Pokedex
 - Mobile Tab Navigation
 - Password Strength Background
