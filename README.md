@@ -16,88 +16,88 @@ Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM ma
 
 Projects below:
 
-- Expanding Cards
+Expanding Cards
   ![Screenshot](screenshots/01.png)
-- Progress Steps
+Progress Steps
   ![Screenshot](screenshots/02.png)
-- Rotating Navigation Animation
+Rotating Navigation Animation
   ![Screenshot](screenshots/03.png)
-- Hidden Search Widget
+Hidden Search Widget
   ![Screenshot](screenshots/04.png)
-- Blurry Loading
+Blurry Loading
   ![Screenshot](screenshots/05.png)
-- Scroll Animation
+Scroll Animation
   ![Screenshot](screenshots/06.png)
-- Split Landing Page
+Split Landing Page
   ![Screenshot](screenshots/07.png)
-- Form Wave
+Form Wave
   ![Screenshot](screenshots/08.png)
-- Sound Board
+Sound Board
   ![Screenshot](screenshots/09.png)
-- Dad Jokes
+Dad Jokes
   ![Screenshot](screenshots/10.png)
-- Event Keycodes
+Event Keycodes
   ![Screenshot](screenshots/11.png)
-- Faq Collapse
+Faq Collapse
   ![Screenshot](screenshots/12.png)
-- Random Choice Picker
+Random Choice Picker
   ![Screenshot](screenshots/13.png)
-- Animated Navigation
+Animated Navigation
   ![Screenshot](screenshots/14.png)
-- Incrementing Counter
+Incrementing Counter
   ![Screenshot](screenshots/15.png)
-- Drink Water
+Drink Water
   ![Screenshot](screenshots/16.png)
-- Movie App
+Movie App
   ![Screenshot](screenshots/17.png)
-- Background Slider
+Background Slider
   ![Screenshot](screenshots/18.png)
-- Theme Clock
+Theme Clock
   ![Screenshot](screenshots/19.png)
-- Button Ripple Effect
+Button Ripple Effect
   ![Screenshot](screenshots/20.png)
-- Drag N Drop
+Drag N Drop
   ![Screenshot](screenshots/21.png)
-- Drawing App
+Drawing App
   ![Screenshot](screenshots/22.png)
-- Kinetic Loader
+Kinetic Loader
   ![Screenshot](screenshots/23.png)
-- Content Placeholder
+Content Placeholder
   ![Screenshot](screenshots/24.png)
-- Sticky Navbar
+Sticky Navbar
   ![Screenshot](screenshots/25.png)
-- Double Vertical Slider
+Double Vertical Slider
   ![Screenshot](screenshots/26.png)
-- Toast Notification
+Toast Notification
   ![Screenshot](screenshots/27.png)
-- Github Profiles
+Github Profiles
   ![Screenshot](screenshots/28.png)
-- Double Click Heart
+Double Click Heart
   ![Screenshot](screenshots/29.png)
-- Auto Text Effect
+Auto Text Effect
   ![Screenshot](screenshots/30.png)
-- Password Generator
+Password Generator
   ![Screenshot](screenshots/31.png)
-- Good Cheap Fast
+Good Cheap Fast
   ![Screenshot](screenshots/32.png)
-- Notes App
+Notes App
   ![Screenshot](screenshots/33.png)
-- Image Carousel
+Image Carousel
   ![Screenshot](screenshots/35.png)
-- Hoverboard
+Hoverboard
   ![Screenshot](screenshots/36.png)
-- Pokedex
+Pokedex
   ![Screenshot](screenshots/37.png)
-- Mobile Tab Navigation
-- Password Strength Background
-- 3d Background Boxes
-- Verify Account UI
-- Live User Filter
-- Feedback UI Design
-- Custom Range Slider
-- Netflix Mobile Navigation
-- Quiz App
-- Testimonial Box Switcher
-- Random Image Feed
-- Todo List
-- Insect Catch Game
+Mobile Tab Navigation
+Password Strength Background
+3d Background Boxes
+Verify Account UI
+Live User Filter
+Feedback UI Design
+Custom Range Slider
+Netflix Mobile Navigation
+Quiz App
+Testimonial Box Switcher
+Random Image Feed
+Todo List
+Insect Catch Game
