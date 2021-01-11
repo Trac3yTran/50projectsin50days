@@ -87,6 +87,7 @@ Projects below:
 - Hoverboard
   ![Screenshot](screenshots/36.png)
 - Pokedex
+  ![Screenshot](screenshots/37.png)
 - Mobile Tab Navigation
 - Password Strength Background
 - 3d Background Boxes
