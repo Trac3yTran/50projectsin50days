@@ -17,78 +17,79 @@ Includes: Modern styling with flexbox, CSS animations, Custom properties, DOM ma
 Projects below:
 
 Expanding Cards
-  ![Screenshot](screenshots/01.png)
+![Screenshot](screenshots/01.png)
 Progress Steps
-  ![Screenshot](screenshots/02.png)
+![Screenshot](screenshots/02.png)
 Rotating Navigation Animation
-  ![Screenshot](screenshots/03.png)
+![Screenshot](screenshots/03.png)
 Hidden Search Widget
-  ![Screenshot](screenshots/04.png)
+![Screenshot](screenshots/04.png)
 Blurry Loading
-  ![Screenshot](screenshots/05.png)
+![Screenshot](screenshots/05.png)
 Scroll Animation
-  ![Screenshot](screenshots/06.png)
+![Screenshot](screenshots/06.png)
 Split Landing Page
-  ![Screenshot](screenshots/07.png)
+![Screenshot](screenshots/07.png)
 Form Wave
-  ![Screenshot](screenshots/08.png)
+![Screenshot](screenshots/08.png)
 Sound Board
-  ![Screenshot](screenshots/09.png)
+![Screenshot](screenshots/09.png)
 Dad Jokes
-  ![Screenshot](screenshots/10.png)
+![Screenshot](screenshots/10.png)
 Event Keycodes
-  ![Screenshot](screenshots/11.png)
+![Screenshot](screenshots/11.png)
 Faq Collapse
-  ![Screenshot](screenshots/12.png)
+![Screenshot](screenshots/12.png)
 Random Choice Picker
-  ![Screenshot](screenshots/13.png)
+![Screenshot](screenshots/13.png)
 Animated Navigation
-  ![Screenshot](screenshots/14.png)
+![Screenshot](screenshots/14.png)
 Incrementing Counter
-  ![Screenshot](screenshots/15.png)
+![Screenshot](screenshots/15.png)
 Drink Water
-  ![Screenshot](screenshots/16.png)
+![Screenshot](screenshots/16.png)
 Movie App
-  ![Screenshot](screenshots/17.png)
+![Screenshot](screenshots/17.png)
 Background Slider
-  ![Screenshot](screenshots/18.png)
+![Screenshot](screenshots/18.png)
 Theme Clock
-  ![Screenshot](screenshots/19.png)
+![Screenshot](screenshots/19.png)
 Button Ripple Effect
-  ![Screenshot](screenshots/20.png)
+![Screenshot](screenshots/20.png)
 Drag N Drop
-  ![Screenshot](screenshots/21.png)
+![Screenshot](screenshots/21.png)
 Drawing App
-  ![Screenshot](screenshots/22.png)
+![Screenshot](screenshots/22.png)
 Kinetic Loader
-  ![Screenshot](screenshots/23.png)
+![Screenshot](screenshots/23.png)
 Content Placeholder
-  ![Screenshot](screenshots/24.png)
+![Screenshot](screenshots/24.png)
 Sticky Navbar
-  ![Screenshot](screenshots/25.png)
+![Screenshot](screenshots/25.png)
 Double Vertical Slider
-  ![Screenshot](screenshots/26.png)
+![Screenshot](screenshots/26.png)
 Toast Notification
-  ![Screenshot](screenshots/27.png)
+![Screenshot](screenshots/27.png)
 Github Profiles
-  ![Screenshot](screenshots/28.png)
+![Screenshot](screenshots/28.png)
 Double Click Heart
-  ![Screenshot](screenshots/29.png)
+![Screenshot](screenshots/29.png)
 Auto Text Effect
-  ![Screenshot](screenshots/30.png)
+![Screenshot](screenshots/30.png)
 Password Generator
-  ![Screenshot](screenshots/31.png)
+![Screenshot](screenshots/31.png)
 Good Cheap Fast
-  ![Screenshot](screenshots/32.png)
+![Screenshot](screenshots/32.png)
 Notes App
-  ![Screenshot](screenshots/33.png)
+![Screenshot](screenshots/33.png)
 Image Carousel
-  ![Screenshot](screenshots/35.png)
+![Screenshot](screenshots/35.png)
 Hoverboard
-  ![Screenshot](screenshots/36.png)
+![Screenshot](screenshots/36.png)
 Pokedex
-  ![Screenshot](screenshots/37.png)
+![Screenshot](screenshots/37.png)
 Mobile Tab Navigation
+![Screenshot](screenshots/38.png)
 Password Strength Background
 3d Background Boxes
 Verify Account UI
