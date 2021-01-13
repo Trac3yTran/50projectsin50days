@@ -91,6 +91,7 @@ Pokedex
 Mobile Tab Navigation
 ![Screenshot](screenshots/38.png)
 Password Strength Background
+![Screenshot](screenshots/39.png)
 3d Background Boxes
 Verify Account UI
 Live User Filter
