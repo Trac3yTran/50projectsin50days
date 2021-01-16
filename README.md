@@ -97,6 +97,7 @@ Password Strength Background
 Verify Account UI
 ![Screenshot](screenshots/41.png
 Live User Filter
+![Screenshot](screenshots/42.png
 Feedback UI Design
 Custom Range Slider
 Netflix Mobile Navigation
