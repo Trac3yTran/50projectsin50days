@@ -101,6 +101,7 @@ Live User Filter
 Feedback UI Design
 ![Screenshot](screenshots/43.png
 Custom Range Slider
+![Screenshot](screenshots/44.png
 Netflix Mobile Navigation
 Quiz App
 Testimonial Box Switcher
